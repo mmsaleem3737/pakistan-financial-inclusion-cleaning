@@ -37,7 +37,7 @@ The purpose of this project is to:
 - **Muhammad Saleem**  
 - 📧 Email: mmsaleem3737@gmail.com  
 - 💼 LinkedIn Profile https://www.linkedin.com/in/saleemdataanalyist/  
-- 🌍 GitHub: mmsaleem3737](https://github.com/mmsaleem3737
+- 🌍 GitHub: https://github.com/mmsaleem3737
 
 
 ## 💻 How to Use  
